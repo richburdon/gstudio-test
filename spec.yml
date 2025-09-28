@@ -1,0 +1,6 @@
+- steps:
+  - id: step-1
+    name: Step One
+  - id: step-2
+    name: Step Two
+
